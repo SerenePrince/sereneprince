@@ -2,8 +2,8 @@
 
 ---
  <p align="center">
-  <a href="https://sereneprince.github.io/noahpn/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/nparknguyen/">LinkedIn</a> •
+  <a href="https://sereneprince.github.io/noahpn/">Portfolio</a> ||
+  <a href="https://www.linkedin.com/in/nparknguyen/">LinkedIn</a> ||
   <a href="mailto:noahparknguyen@gmail.com">Email</a>
 </p> 
 
