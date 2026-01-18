@@ -3,13 +3,19 @@
 #
 
 <p align="center">
-  <a href="https://sereneprince.github.io/noahpn/">Portfolio</a> ||
-  <a href="https://www.linkedin.com/in/nparknguyen/">LinkedIn</a> ||
+  I’m Noah — an application developer and computer science student.<br />
+  Building internal tools and automation.<br />
+  Most professional work is private.
+</p>
+
+<p align="center">
+  <a href="https://sereneprince.github.io/noahpn/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/nparknguyen/">LinkedIn</a> ·
   <a href="mailto:noahparknguyen@gmail.com">Email</a>
 </p>
 
 #
 
 <p align="center">
-  <sub><sup><em>Bapanada</em></sup></sub>
+  <sub><em>Bapanada</em></sub>
 </p>
