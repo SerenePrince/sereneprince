@@ -3,7 +3,7 @@
 #
 
 <p align="center">
-  I’m Noah — an application developer and computer science student.<br />
+  I’m Noah — a software / application developer and computer science student.<br />
   Building internal tools and automation.<br />
   Most professional work is private.
 </p>
