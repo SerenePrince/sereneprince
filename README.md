@@ -3,9 +3,9 @@
 #
 
 <p align="center">
-  I’m Noah — a software / application developer and computer science student.<br />
-  Building internal tools and automation.<br />
-  Most professional work is private.
+  I'm Noah — an application and software developer based in Ottawa.<br />
+  I build internal tools, automation workflows, and reporting dashboards.<br />
+  Most of my professional work is private — case studies on my portfolio.
 </p>
 
 <p align="center">
