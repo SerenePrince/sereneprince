@@ -12,7 +12,9 @@
   <a href="https://www.linkedin.com/in/nparknguyen/">LinkedIn</a> ·
   <a href="mailto:noahparknguyen@gmail.com">Email</a>
 </p>
+
 #
+
 <p align="center">
   <sub><em>Bapanada</em></sub>
 </p>
